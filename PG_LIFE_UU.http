@@ -1,0 +1,6 @@
+@PG_LIFE_UU_HostAddress = http://localhost:5149
+
+GET {{PG_LIFE_UU_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
