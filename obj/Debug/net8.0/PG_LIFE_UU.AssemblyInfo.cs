@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PG_LIFE_UU")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c0ede78b44c89b6d4b0863da847b6baf5a34f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("PG_LIFE_UU")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PG_LIFE_UU")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

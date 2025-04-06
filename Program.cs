@@ -1,6 +1,11 @@
+using PG_LIFE_UU.Repositories;
+using PG_LIFE_UU.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<ICleaningService, CleaningService>();
+builder.Services.AddScoped<ICleaningRepository, CleaningRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

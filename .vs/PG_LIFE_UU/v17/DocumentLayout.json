@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "G:\\PG_LIFE_UU\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\controllers\\cleaningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:controllers\\cleaningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\models\\cleaningtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:models\\cleaningtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\services\\cleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:services\\cleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\services\\icleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:services\\icleaningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\repositories\\icleaningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:repositories\\icleaningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|g:\\pg_life_uu\\repositories\\cleaningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6737D34-F409-4FBA-BBD3-BAF13747F493}|PG_LIFE_UU.csproj|solutionrelative:repositories\\cleaningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:59:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CleaningRepository.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Repositories\\CleaningRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CleaningRepository.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Repositories\\CleaningRepository.cs",
+              "RelativeToolTip": "Repositories\\CleaningRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:59:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICleaningRepository.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Repositories\\ICleaningRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICleaningRepository.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Repositories\\ICleaningRepository.cs",
+              "RelativeToolTip": "Repositories\\ICleaningRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:58:52.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICleaningService.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Services\\ICleaningService.cs",
+              "RelativeDocumentMoniker": "Services\\ICleaningService.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Services\\ICleaningService.cs",
+              "RelativeToolTip": "Services\\ICleaningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:57:56.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CleaningService.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Services\\CleaningService.cs",
+              "RelativeDocumentMoniker": "Services\\CleaningService.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Services\\CleaningService.cs",
+              "RelativeToolTip": "Services\\CleaningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:57:14.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CleaningController.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Controllers\\CleaningController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CleaningController.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Controllers\\CleaningController.cs",
+              "RelativeToolTip": "Controllers\\CleaningController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:56:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CleaningTask.cs",
+              "DocumentMoniker": "G:\\PG_LIFE_UU\\Models\\CleaningTask.cs",
+              "RelativeDocumentMoniker": "Models\\CleaningTask.cs",
+              "ToolTip": "G:\\PG_LIFE_UU\\Models\\CleaningTask.cs",
+              "RelativeToolTip": "Models\\CleaningTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:54:54.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
